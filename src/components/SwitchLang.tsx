@@ -35,6 +35,8 @@ const localeText = (locale: string): string => {
       return '🇹🇼 繁體中文'
     default:
       return '🇬🇧 English'
+    default:
+      return '🇻🇳 Tiếng Việt'
   }
 }
 
