@@ -33,10 +33,10 @@ const localeText = (locale: string): string => {
       return '🇹🇷 Türkçe'
     case 'zh-TW':
       return '🇹🇼 繁體中文'
+    case 'vi-VN':
+      return '🇻🇳 Tiếng Việt'
     default:
       return '🇬🇧 English'
-    default:
-      return '🇻🇳 Tiếng Việt'
   }
 }
 
