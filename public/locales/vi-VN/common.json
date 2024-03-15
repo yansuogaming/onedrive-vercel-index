@@ -1,8 +1,8 @@
 {
-  "- showing {{count}} page(s) ——one": "- showing {{count}} page ",
-  "- showing {{count}} page(s) ——other": "- showing {{count}} pages ",
-  "{{count}} item(s)——one": "{{count}} item",
-  "{{count}} item(s)——other": "{{count}} items",
+  "- showing {{count}} page(s) ——one": "- hiển thị {{count}} số trang ",
+  "- showing {{count}} page(s) ——other": "- hiển thị {{count}} số trang ",
+  "{{count}} item(s)——one": "{{count}} mục",
+  "{{count}} item(s)——other": "{{count}} mục",
   "<0></0> If you are not the owner of this website, stop now, as continuing with this process may expose your personal files in OneDrive.": "<0></0> If you are not the owner of this website, stop now, as continuing with this process may expose your personal files in OneDrive.",
   "<0></0> If you have not specified a REDIS_URL inside your Vercel env variable, go initialise one at <3>Upstash</3>. Docs: <6>Vercel Integration - Upstash</6>.": "<0></0> If you have not specified a REDIS_URL inside your Vercel env variable, go initialise one at <3>Upstash</3>. Docs: <6>Vercel Integration - Upstash</6>.",
   "<0></0> If you see anything missing or incorrect, you need to reconfigure <3>/config/api.config.js</3> and redeploy this instance.": "<0></0> If you see anything missing or incorrect, you need to reconfigure <3>/config/api.config.js</3> and redeploy this instance.",
