@@ -36,7 +36,7 @@ const localeText = (locale: string): string => {
     case 'vi-VN':
       return '🇻🇳 Vietnam'
     default:
-      return '🇬🇧 English'
+      return '🇻🇳 Vietnam'
   }
 }
 
