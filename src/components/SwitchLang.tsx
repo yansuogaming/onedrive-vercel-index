@@ -34,9 +34,9 @@ const localeText = (locale: string): string => {
     case 'zh-TW':
       return '🇹🇼 繁體中文'
     case 'vi-VN':
-      return '🇹🇼 繁體中文'
-    default:
       return '🇻🇳 Vietnam'
+    default:
+      return '🇬🇧 English'
   }
 }
 
