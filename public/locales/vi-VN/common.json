@@ -86,7 +86,7 @@
   "of {{count}} file(s) -——loaded——other": "của {{count}} tập tin -",
   "of {{count}} file(s) -——loading——one": "của ... tệp(s) -",
   "of {{count}} file(s) -——loading——other": "của ... tập tin(s) -",
-  "Oops, that's a <1>four-oh-four</1>.": "Ôi không, tập tin đó chủ sở hữu đã ẩn hoặc xoá mất rồi.",
+  "Oops, that's a <1>four-oh-four</1>.": "Oh, tập tin đó chủ sở hữu đã ẩn hoặc xoá mất rồi.",
   "Open URL": "Mở đường dẫn",
   "Open URL{{url}}": "Mở đường dẫn{{url}}",
   "Press <2>F12</2> and open devtools for more details, or seek help at <6>onedrive-vercel-index discussions</6>.": "Ấn <2>F12</2> và mở DevTools để biết thêm chi tiết hoặc tìm kiếm trợ giúp tại <6>onedrive-vercel-index discussions</6>.",
@@ -118,6 +118,6 @@
   "Welcome to your new onedrive-vercel-index 🎉": "Chào mừng bạn đến với onedrive-vercel-index 🎉",
   "What is this?": "Đây là gì ?",
   "Where is the auth code? Did you follow step 2 you silly donut?": "Mã xác thực ở đâu? Bạn đã làm bước 2 theo chỉ dẫn chưa ?",
-  "Whoops, looks like we got a problem: {{error}}.": "Whoops, có vẻ như chúng tôi đã có một vấn đề: {{error}}."
+  "Whoops, looks like we got a problem: {{error}}.": "Oh, có vẻ như đã gặp một vấn đề: {{error}}."
 }
 
